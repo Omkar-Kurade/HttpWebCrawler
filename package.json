@@ -1,0 +1,25 @@
+{
+  "name": "httpwebcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkar-Kurade/HttpWebCrawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Omkar-Kurade/HttpWebCrawler/issues"
+  },
+  "homepage": "https://github.com/Omkar-Kurade/HttpWebCrawler#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
